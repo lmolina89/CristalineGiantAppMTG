@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CrystalineGiantApp</string>
+
+    <string name="volar">Vuela</string>
+    <string name="dañar_primero">Daña primero</string>
+    <string name="toque_mortal">Toque mortal</string>
+    <string name="antimaleficio">Antimaleficio</string>
+    <string name="vinculo_vital">Vinculo vital</string>
+    <string name="amenaza">Amenaza</string>
+    <string name="alcance">Alcance</string>
+    <string name="arrollar">Arrolla</string>
+    <string name="vigilancia">Vigilancia</string>
+    <string name="mas1">+1/+1</string>
+
+
+</resources>
